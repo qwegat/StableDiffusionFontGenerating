@@ -1,0 +1,2 @@
+# StableDiffusionFontGenerating
+おれはAIにフォントを生成させることができてもいいと思う
